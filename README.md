@@ -217,7 +217,7 @@ Update `application.yml`:
 ```
 spring:
   datasource:
-    url: jdbc:sqlserver://localhost:1433;databaseName=TESTDB
+    url: jdbc:sqlserver://localhost:1433;databaseName=DEMODB
     username: sa
     password: your_password
 ```
